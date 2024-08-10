@@ -1,5 +1,5 @@
 <?php
-  /* ----------- File upload ---------- */
+  /* --------------- File upload ----------------- */
 
 
   $allowed_ext = array('png', 'jpg', 'jpeg', 'gif');
